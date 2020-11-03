@@ -9,4 +9,4 @@ Following are the rules of the game:
 * When a player misses the ball, score of opponent will be incremented by 1 point
 * The game ends when the any one of the player gains 10 points
 * The first player who gains 10 points is the winner :trophy:
-
+- - - -
