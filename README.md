@@ -5,6 +5,7 @@ The pong game consists of a ball bouncing on a screen. A paddle enables the user
 Following are the rules of the game:
 * It is a two player game
 * Each player has to use the assigned keys on keyboard to change position of paddle
+* Players need to stop ball from reaching ground with the help of the paddle
 * When a player misses the ball, score of opponent will be incremented by 1 point
 * The game ends when the any one of the player gains 10 points
 * The first player who gains 10 points is the winner
